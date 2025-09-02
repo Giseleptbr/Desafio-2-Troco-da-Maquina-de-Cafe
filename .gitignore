@@ -1,0 +1,17 @@
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Visual Studio / VS Code
+.vscode/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# MacOS
+.DS_Store
